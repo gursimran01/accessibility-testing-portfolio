@@ -1,0 +1,102 @@
+Tester: Gursimran W
+Date: 2025-01-22
+Screen Reader: NVDA 2024.4
+Browser: Chrome
+Operating System: Windows 11
+
+--------------------------------------------
+
+URL Tested:
+https://www.canada.ca/en.html
+
+Page Type:
+Government public website (homepage)
+
+--------------------------------------------
+
+NVDA Checks Performed
+
+1. Page Title
+Shortcut Used: NVDA + T
+
+Observation:
+NVDA announced the page title as:
+"Canada.ca - Canada’s official website"
+
+Title was clear, descriptive, and matched page content.
+No issues observed.
+
+--------------------------------------------
+
+2. Headings
+Shortcuts Used: H / Shift + H
+NVDA + F7 (Headings tab)
+
+Observation:
+- One H1 present: "Canada.ca"
+- Multiple H2 sections such as "Most requested", "Services and information"
+- Heading hierarchy followed logical order.
+- No skipped heading levels observed.
+
+--------------------------------------------
+
+3. Links
+Shortcut Used: NVDA + F7 (Links tab)
+
+Observation:
+- Most links were descriptive (e.g., "Find a job", "Immigration and citizenship").
+- Some repeated links with identical text appeared multiple times but still made sense contextually.
+- No generic "Click here" links observed.
+
+--------------------------------------------
+
+4. Landmarks
+Shortcut Used: NVDA + F7 (Landmarks tab)
+
+Observation:
+- Banner, navigation, main, and contentinfo landmarks present.
+- Allowed quick navigation between major page sections.
+- Landmark structure supported efficient screen reader navigation.
+
+--------------------------------------------
+
+5. Keyboard Navigation
+Shortcuts Used: Tab / Shift + Tab
+
+Observation:
+- Keyboard focus was visible at all times.
+- NVDA announced link names and roles correctly.
+- No keyboard traps encountered.
+
+--------------------------------------------
+
+6. PDF Accessibility Test
+
+PDF Name:
+"Canada Child Benefit Overview"
+
+PDF Type:
+Text-based PDF
+
+NVDA Behavior:
+- NVDA read paragraph text correctly.
+- Headings were announced properly.
+- Tab key navigated through links successfully.
+
+OCR Required:
+No
+
+--------------------------------------------
+
+7. Issues Identified
+
+Issue 1:
+None observed during this test session.
+
+--------------------------------------------
+
+Overall Summary
+
+Performed NVDA accessibility testing on a government public website.
+Validated page title, heading structure, links, landmarks, keyboard navigation, and PDF readability.
+Page demonstrated good accessibility support for screen reader users.
